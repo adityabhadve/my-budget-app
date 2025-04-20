@@ -1,1 +1,3 @@
-# my-budget-app
+# Project
+Project
+My Budget Planner
